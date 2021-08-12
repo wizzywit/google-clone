@@ -6,7 +6,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](
 
 Preview the deployed version live:
 
-[Open Google CLone](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+[Open Google CLone](https://google-clone-peach.vercel.app/)
 
 ## How to run
 - Clone this [repo](https://github.com/wizzywit/google-clone) using this command `git clone https://github.com/wizzywit/google-clone.git`

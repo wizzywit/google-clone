@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
 
       <main className="font-sans flex flex-col">
-        <div className="flex justify-end px-4 py-2 items-center min-w-13 mb-12">
+        <div className="flex justify-end px-4 py-2 items-center min-w-13 mb-14">
             <div className="flex items-center justify-between">
                 <a className="text-black text-opacity-87 pr-3 text-sm hover:underline" href="#">
                     Gmail

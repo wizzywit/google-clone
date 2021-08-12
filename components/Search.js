@@ -40,7 +40,7 @@ const Search = () => {
                 </div>
                 <div className="flex items-center flex-col md:justify-center gap-2 md:gap-1 text-sm mt-6 md:flex-row">
                     <p>Google offered in: </p>
-                    <div>
+                    <div className="flex gap-2 items-center justify-center">
                         <a href="#" className="text-blue-800 hover:underline">Hausa</a> <a href="#" className="text-blue-800 hover:underline">Igbo</a> <a href="#" className="text-blue-800 hover:underline">Èdè Yorùbá</a> <a href="#" className="text-blue-800 hover:underline">Nigerian Pidgin</a>
                     </div>
                 </div>
