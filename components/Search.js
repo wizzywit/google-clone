@@ -20,7 +20,7 @@ const Search = () => {
     const handleSubmit = (e) => {
         e.preventDefault()
         if(search === '') return
-        window.location = `https://google.com/search?q=${search}`
+        window.location = `https://google.com/search?q=${search.trim()}`
     }
 
     return (
