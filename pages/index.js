@@ -38,7 +38,7 @@ export default function Home() {
 
       <footer className="flex flex-col bg-gray-100 items-center justify-center w-full text-sm">
           <div className="flex items-center justify-start pl-8 border-b border-gray-200 w-full h-12">
-              <p className="text-gray-500">Nigera</p>
+              <p className="text-gray-500">Nigeria</p>
           </div>
           <div className="flex items-center flex-col md:flex-row md:justify-between px-10 w-full md:h-12 flex-wrap">
               <div className="flex items-center gap-8 mb-4 md:m-0 mt-4">
